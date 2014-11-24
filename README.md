@@ -1,5 +1,7 @@
 # Crawler
 
+[![Build Status](https://travis-ci.org/jkamenik/crawler.svg?branch=master)](https://travis-ci.org/jkamenik/crawler)
+
 A simple web crawler
 
 ## Setup
